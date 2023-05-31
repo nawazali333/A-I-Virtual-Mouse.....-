@@ -1,13 +1,13 @@
 # A-I-Virtual-Mouse.....-
 
-    AI virtual mouse system is to develop an alternative to the regular and traditional mouse system to perform and control the mouse functions,
+AI virtual mouse system is to develop an alternative to the regular and traditional mouse system to perform and control the mouse functions,
 and this can be achieved with the help of a web camera that captures the hand gestures and hand tip and then processes these frames to 
 perform the particular mouse function such as left click, right click, and scrolling function.
 
 For the purpose of detection of hand gestures and hand tracking, the MediaPipe framework is used, and OpenCV library is used 
 for computer vision [7–10]. The algorithm makes use of the machine learning concepts to track and recognize the hand gestures and hand tip.
 
-              The main objective of the AI virtual mouse system is to control the mouse cursor functions by using the hand gestures instead of using 
+The main objective of the AI virtual mouse system is to control the mouse cursor functions by using the hand gestures instead of using 
 a physical mouse. The proposed system can be achieved by using a webcam or a built-in camera which detects the hand gestures and hand tip
 and processes these frames to perform the particular mouse functions.
 
