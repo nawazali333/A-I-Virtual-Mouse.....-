@@ -21,6 +21,22 @@ The model has some limitations such as small decrease in accuracy in right click
 dragging to select the text. Hence, we will work next to overcome these limitations by improving the finger tip detection algorithm to 
 produce more accurate results.
 
+Features:
+
+Gesture Recognition:
+1.Neutral Gesture
+2.Move Cursor
+3.Left Click
+4.Right Click
+5.Double Click
+6.Scrolling
+7.Drag and Drop
+
+Gesture for drag and drop functionality. Can be used to move/tranfer files from one directory to other.
+Multiple Item Selection
+Volume Control
+Brightness Control
+
 Applications:
 
 The AI virtual mouse system is useful for many applications; it can be used to reduce the space for using the physical mouse, and it can be used in situations where we cannot use the physical mouse. The system eliminates the usage of devices, and it improves the human-computer interaction.
