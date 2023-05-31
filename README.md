@@ -1,23 +1,23 @@
 # A-I-Virtual-Mouse.....-
 
-AI virtual mouse system is to develop an alternative to the regular and traditional mouse system to perform and control the mouse functions,
+  AI virtual mouse system is to develop an alternative to the regular and traditional mouse system to perform and control the mouse functions,
 and this can be achieved with the help of a web camera that captures the hand gestures and hand tip and then processes these frames to 
 perform the particular mouse function such as left click, right click, and scrolling function.
 
-For the purpose of detection of hand gestures and hand tracking, the MediaPipe framework is used, and OpenCV library is used 
+  For the purpose of detection of hand gestures and hand tracking, the MediaPipe framework is used, and OpenCV library is used 
 for computer vision [7–10]. The algorithm makes use of the machine learning concepts to track and recognize the hand gestures and hand tip.
 
-The main objective of the AI virtual mouse system is to control the mouse cursor functions by using the hand gestures instead of using 
+    The main objective of the AI virtual mouse system is to control the mouse cursor functions by using the hand gestures instead of using 
 a physical mouse. The proposed system can be achieved by using a webcam or a built-in camera which detects the hand gestures and hand tip
 and processes these frames to perform the particular mouse functions.
 
-From the results of the model, we can come to a conclusion that the proposed AI virtual mouse system has performed very well and has a 
+  From the results of the model, we can come to a conclusion that the proposed AI virtual mouse system has performed very well and has a 
 greater accuracy compared to the existing models and also the model overcomes most of the limitations of the existing systems. Since the 
 proposed model has greater accuracy, the AI virtual mouse can be used for real-world applications, and also, it can be used to reduce 
 the spread of COVID-19, since the proposed mouse system can be used virtually using hand gestures without using the traditional physical 
 mouse.
 
-The model has some limitations such as small decrease in accuracy in right click mouse function and some difficulties in clicking and 
+  The model has some limitations such as small decrease in accuracy in right click mouse function and some difficulties in clicking and 
 dragging to select the text. Hence, we will work next to overcome these limitations by improving the finger tip detection algorithm to 
 produce more accurate results.
 
